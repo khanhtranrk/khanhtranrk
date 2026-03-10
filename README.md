@@ -2,9 +2,12 @@
 Hello, I am Khanh
 ```
 
-## 📑 Technical skills
-- Ruby, C/C++, C#, Java, Python, Typescript
-- Ruby on Rails, ReactJs, React Native
-- PostgreSQL, MySQL, Redis
-- Git, Docker
-- Linux (command line)
+## Technical skills
+- C/C++, Rust, Golang, Ruby, C#, Java, Python, Lua, Typescript
+- Ruby on Rails, Spring Boot, Axum, Gin, ReactJs, React Native
+- PostgreSQL, MySQL, SQLite
+- Redis
+- RabbitMQ
+- Docker
+- Git
+- Linux
