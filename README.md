@@ -1,3 +1,3 @@
 ```
-Hello, I am Khanh
+Hello, I'm Khanh
 ```
